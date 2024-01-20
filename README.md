@@ -3,7 +3,7 @@ The robot is in a 2D grid environment which has walls, doors and a key for unloc
 
 ## Results:
 1. Least cost path was found using backward dynamic programming <br>
-![gif1] (/known_opt_gifs/doorkey-6x6-normal.gif) <br>
+![gif1] (known_opt_gifs/doorkey-6x6-normal.gif) <br>
 ![gif2] (/known_opt_gifs/doorkey-8x8-normal.gif) <br>
 ![gif3] (/random_opt_gifs/DoorKey-8x8-11.gif) <br>
 ![gif4] (/random_opt_gifs/DoorKey-8x8-32.gif) 
