@@ -9,7 +9,7 @@ The robot is in a 2D grid environment which has walls, doors and a key for unloc
 ![gif4](/random_opt_gifs/DoorKey-8x8-32.gif) 
 
 ## Running code:
-* Libraries: os, numoy, gymnasium, pickle, matplotlib, imeagio, random, minigrid
+* Libraries: os, numpy, gymnasium, pickle, matplotlib, imeagio, random, minigrid
 * Script files: doorkey.py, pr1_functions2.py, utils.py
 * Run: Execute 'doorkey.py'
 * Output: <br>
